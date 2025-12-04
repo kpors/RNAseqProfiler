@@ -1,6 +1,6 @@
 # RNAseqProfiler
 
-##  - An automatic and efficient Snakemake workflow for RNA-seq data processing - 
+#  - An automatic and efficient Snakemake workflow for RNA-seq data processing - 
 #  - Alignment, Quantification, and BigWigs in one go - 
 
 ![Version](https://img.shields.io/badge/version-1.2-blue)
